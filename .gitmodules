@@ -1,0 +1,3 @@
+[submodule "secureum-medusa"]
+	path = secureum-medusa
+	url = https://github.com/crytic/secureum-medusa
